@@ -19,7 +19,11 @@ Você escolhe o arquivo, escolhe a pasta onde o resultado será salvo e clica em
 
 ## Baixar o executável
 
-Na página de [Releases](../../releases) está o `ConversorPDF.exe`. Não precisa instalar o Python.
+[Baixar ConversorPDF.exe](https://github.com/kadual10/conversor-pdf-word-image-pdf/releases/latest/download/ConversorPDF.exe)
+
+Não precisa instalar o Python. Veja todas as versões em [Releases](https://github.com/kadual10/conversor-pdf-word-image-pdf/releases).
+
+O Windows pode mostrar o aviso "O Windows protegeu o computador", porque o app não tem assinatura digital. Clique em **Mais informações** e depois em **Executar assim mesmo**.
 
 ## Rodar pelo código
 
